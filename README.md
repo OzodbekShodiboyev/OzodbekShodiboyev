@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Laravel, React Js<br><br>💬 Ask me about HTML, CSS, JS, BOOTSTRAPT, PHP, Laravel<br><br>📫 How to reach me ozodbekonline1@gmail.com
-
+    
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ozodbek.online#6857)
